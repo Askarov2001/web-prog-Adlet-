@@ -24,3 +24,9 @@ Route::get('/user', function () {
 Route::get('/home', function () {
     return "home";
 });
+
+Route::get('/CIT', function () {
+    return "CIT";
+});
+
+
