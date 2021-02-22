@@ -29,4 +29,8 @@ Route::get('/CIT', function () {
     return "CIT";
 });
 
+Route::get('/UFC<З', function () {
+    return "UFC<З";
+});
+
 
